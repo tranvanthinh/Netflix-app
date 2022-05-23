@@ -2,6 +2,7 @@ import "./Featured.scss"
 import { BsPlayCircleFill } from 'react-icons/bs'
 import { BsInfoCircle } from 'react-icons/bs'
 import { BsInfoCircle } from 'react-icons/bs'
+import { BsInfoCircle } from 'react-icons/bs'
 
 
 export default function Featured({ type }) {
